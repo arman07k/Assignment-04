@@ -7,9 +7,9 @@ function  calculateVAT(price){
     }
 }
 
-calculateVAT(1500);
-calculateVAT(200);
-calculateVAT(999);
-calculateVAT(-500);
-calculateVAT("101");
-calculateVAT("foo");
+// calculateVAT(1500);
+// calculateVAT(200);
+// calculateVAT(999);
+// calculateVAT(-500);
+// calculateVAT("101");
+// calculateVAT("foo");
