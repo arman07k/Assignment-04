@@ -19,19 +19,19 @@ function willSuccess(marks){
     }
 }
 
-const arr1 = [60, 70, 80, 40, 30];
-console.log(willSuccess(arr1));
-const arr2 = [48 , 48 , 92 , 100 ];
-console.log(willSuccess(arr2));
-const arr3 = [48, 48, 50, 50, 100];
-console.log(willSuccess(arr3));
-const arr4 = [ ];
-console.log(willSuccess(arr4));
-const arr5 = [90];
-console.log(willSuccess(arr5));
-const arr6 = [ 90 ,  99 , 87 , 48 , 34 , 49 ];
-console.log(willSuccess(arr6));
-const arr7 = "100 , 100";
-console.log(willSuccess(arr7));
-const arr8 = 90;
-console.log(willSuccess(arr8));
+// const arr1 = [60, 70, 80, 40, 30];
+// console.log(willSuccess(arr1));
+// const arr2 = [48 , 48 , 92 , 100 ];
+// console.log(willSuccess(arr2));
+// const arr3 = [48, 48, 50, 50, 100];
+// console.log(willSuccess(arr3));
+// const arr4 = [ ];
+// console.log(willSuccess(arr4));
+// const arr5 = [90];
+// console.log(willSuccess(arr5));
+// const arr6 = [ 90 ,  99 , 87 , 48 , 34 , 49 ];
+// console.log(willSuccess(arr6));
+// const arr7 = "100 , 100";
+// console.log(willSuccess(arr7));
+// const arr8 = 90;
+// console.log(willSuccess(arr8));
